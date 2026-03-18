@@ -1,0 +1,8 @@
+requests
+pycryptodome
+pystyle
+psutil
+pyautogui
+manuf
+pillow
+pyinstaller
